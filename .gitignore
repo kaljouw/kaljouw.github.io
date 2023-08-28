@@ -26,3 +26,7 @@ yarn-error.log*
 /.idea/modules.xml
 /.idea/php.xml
 /.idea/vcs.xml
+
+# node
+node/node_modules
+node/config.js
