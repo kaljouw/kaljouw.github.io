@@ -27,12 +27,12 @@ export const Intro = () => {
         <div className='intro__content'>
           Aanmelden voor de veiling kan via de onderstaande button
           <div className='buttons'>
-            <a href='#_' target='_blank' className='button'>Aanmelden</a>
+            <a href='#_' target='_blank' rel="noreferrer" className='button'>Aanmelden</a>
           </div>
           Bekijk ook de Muskathlon pagina's van .....
           <div className='buttons'>
-            <a href='https://www.muskathlon.nl/deelnemers/#_' target='_blank' className='button'>....</a>
-            <a href='https://www.muskathlon.nl/deelnemers/#_' target='_blank' className='button'>....</a>
+            <a href='https://www.muskathlon.nl/deelnemers/#_' target='_blank' rel="noreferrer" className='button'>....</a>
+            <a href='https://www.muskathlon.nl/deelnemers/#_' target='_blank' rel="noreferrer" className='button'>....</a>
           </div>
         </div>
       </div>
