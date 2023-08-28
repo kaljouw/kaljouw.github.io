@@ -1,0 +1,13 @@
+[
+  {
+    "nummer": 1,
+    "name": "Kaaspakket",
+    "omschrijving": "<p>Aangeboden door</p>",
+    "afbeeldingen": [
+      {
+        "name": "image23.png",
+        "path": "image23.png"
+      }
+    ]
+  }
+]
