@@ -1209,14 +1209,14 @@
     strip-json-comments "^3.1.1"
 
 "@fontsource/epilogue@^4.5.10":
-  version "4.5.10"
-  resolved "https://registry.yarnpkg.com/@fontsource/epilogue/-/epilogue-4.5.10.tgz#934bf10578e36da6b5fbdbac26b717dccc632c67"
-  integrity sha512-EqHRz7CoeTDWXlX07AHi2rLAcqqQag5/B+AssJ22E05slozPhL6oyQpun3fibr7+UsLWmkAqDy4NwhgYYZ0TPQ==
+  version "4.5.11"
+  resolved "https://registry.yarnpkg.com/@fontsource/epilogue/-/epilogue-4.5.11.tgz#4579b2dc431125f4391619c3600d88fa9273aa8e"
+  integrity sha512-2L54zvaeYRxBK0yKCjEVcp37sBeDKkDJ2NgaX6+TGMJP1CcsMIz7K1xc3fpqqRFQV/4r0XY/RaiY6vbjHLF/5g==
 
 "@fontsource/josefin-sans@^4.5.11":
-  version "4.5.11"
-  resolved "https://registry.yarnpkg.com/@fontsource/josefin-sans/-/josefin-sans-4.5.11.tgz#46d6fc02d1fed992c68df599132871f65fc412d5"
-  integrity sha512-3JvalsdOJc1XfERcarGsVMFOnPcWTQgMVzptnpg8pT27Al4g16Nj7S0nA4VSkIkyYoPArHGas2n7b1vu3pBHnA==
+  version "4.5.12"
+  resolved "https://registry.yarnpkg.com/@fontsource/josefin-sans/-/josefin-sans-4.5.12.tgz#7532738e5356e65dfef1c41f0ef73e2f33d6bb29"
+  integrity sha512-Wu69wdmSDrKPPloaQmM8E+tTZO7o+OTTKu/Pcs1vpRveblVI69/n2mcViXxzeItXwx/Wm9DFxEEvCH71cSPeeg==
 
 "@humanwhocodes/config-array@^0.11.8":
   version "0.11.8"
@@ -2007,9 +2007,9 @@
   integrity sha512-DHQpWGjyQKSHj3ebjFI/wRKcqQcdR+MoFBygntYOZytCqNfkd2ZC4ARDJ2DQqhjH5p85Nnd3jhUJIXrszFX/JA==
 
 "@types/node@^16.18.10":
-  version "16.18.11"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.18.11.tgz#cbb15c12ca7c16c85a72b6bdc4d4b01151bb3cae"
-  integrity sha512-3oJbGBUWuS6ahSnEq1eN2XrCyf4YsWI8OyCvo7c64zQJNplk3mO84t53o8lfTk+2ji59g5ycfc6qQ3fdHliHuA==
+  version "16.18.46"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.18.46.tgz#9f2102d0ba74a318fcbe170cbff5463f119eab59"
+  integrity sha512-Mnq3O9Xz52exs3mlxMcQuA7/9VFe/dXcrgAyfjLkABIqxXKOgBRjyazTxUbjsxDa4BP7hhPliyjVTP9RDP14xg==
 
 "@types/parse-json@^4.0.0":
   version "4.0.0"
@@ -8690,9 +8690,9 @@ typedarray-to-buffer@^3.1.5:
     is-typedarray "^1.0.0"
 
 typescript@^4.9.4:
-  version "4.9.4"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.9.4.tgz#a2a3d2756c079abda241d75f149df9d561091e78"
-  integrity sha512-Uz+dTXYzxXXbsFpM86Wh3dKCxrQqUcVMxwU54orwlJjOpO3ao8L7j5lH+dWfTwgCwIuM9GQ2kvVotzYJMXTBZg==
+  version "4.9.5"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.9.5.tgz#095979f9bcc0d09da324d58d03ce8f8374cbe65a"
+  integrity sha512-1FXk9E2Hm+QzZQ7z+McJiHL4NW1F2EzMu9Nq9i3zAaGqibafqYwCVU6WyWAuyQRRzOlxou8xZSyXLEN8oKj24g==
 
 unbox-primitive@^1.0.2:
   version "1.0.2"
