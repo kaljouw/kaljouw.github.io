@@ -11,7 +11,7 @@ export const Intro = () => {
           <p>
             <b>MELD JE AAN</b> met de rode aanmeldknop. Dat is voor ons handig in verband met de catering.
           </p>
-          <p>De veiling vindt plaats ...</p>
+          <p>De veiling vindt plaats ....</p>
           <p>
             Naast deze veilingstukken is er ook een kraam met leuke cadeautjes die te koop zijn.
           </p>
