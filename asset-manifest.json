@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.41c825ff.css",
-    "main.js": "/static/js/main.1e814a39.js",
-    "static/js/787.f4b084b8.chunk.js": "/static/js/787.f4b084b8.chunk.js",
-    "static/media/epilogue-all-400-normal.woff": "/static/media/epilogue-all-400-normal.06abd601976bba25d509.woff",
-    "static/media/josefin-sans-all-400-normal.woff": "/static/media/josefin-sans-all-400-normal.7c4532067e4e43539af1.woff",
-    "static/media/epilogue-latin-400-normal.woff2": "/static/media/epilogue-latin-400-normal.c8eef8d6ce20f1969ba9.woff2",
-    "static/media/josefin-sans-latin-400-normal.woff2": "/static/media/josefin-sans-latin-400-normal.a881812c0fff75f6cf26.woff2",
-    "static/media/epilogue-latin-ext-400-normal.woff2": "/static/media/epilogue-latin-ext-400-normal.33fa8a1fb57be4325233.woff2",
-    "static/media/josefin-sans-latin-ext-400-normal.woff2": "/static/media/josefin-sans-latin-ext-400-normal.9a2c45e18269982d8d82.woff2",
-    "static/media/epilogue-vietnamese-400-normal.woff2": "/static/media/epilogue-vietnamese-400-normal.9684687c1b791c07434b.woff2",
-    "static/media/josefin-sans-vietnamese-400-normal.woff2": "/static/media/josefin-sans-vietnamese-400-normal.8d631991aaf999843621.woff2",
+    "main.css": "/static/css/main.182539eb.css",
+    "main.js": "/static/js/main.5ba7c803.js",
+    "static/js/496.d4e35a9d.chunk.js": "/static/js/496.d4e35a9d.chunk.js",
+    "static/media/epilogue-latin-400-normal.woff": "/static/media/epilogue-latin-400-normal.5ebc327bffe36f90e8e0.woff",
+    "static/media/epilogue-latin-ext-400-normal.woff": "/static/media/epilogue-latin-ext-400-normal.00b814759ba8e1410c4a.woff",
+    "static/media/josefin-sans-latin-400-normal.woff": "/static/media/josefin-sans-latin-400-normal.a23c71085289e90653b6.woff",
+    "static/media/josefin-sans-latin-ext-400-normal.woff": "/static/media/josefin-sans-latin-ext-400-normal.c8117d7cdb6d3c751c72.woff",
+    "static/media/epilogue-latin-400-normal.woff2": "/static/media/epilogue-latin-400-normal.981a5355f40a06c0d881.woff2",
+    "static/media/josefin-sans-latin-400-normal.woff2": "/static/media/josefin-sans-latin-400-normal.761b272ec66a5f5bda94.woff2",
+    "static/media/epilogue-latin-ext-400-normal.woff2": "/static/media/epilogue-latin-ext-400-normal.0d8f1524830f1ac1e701.woff2",
+    "static/media/josefin-sans-latin-ext-400-normal.woff2": "/static/media/josefin-sans-latin-ext-400-normal.0f09987515ffb170376e.woff2",
+    "static/media/josefin-sans-vietnamese-400-normal.woff": "/static/media/josefin-sans-vietnamese-400-normal.769dd87fab88d7831378.woff",
+    "static/media/epilogue-vietnamese-400-normal.woff": "/static/media/epilogue-vietnamese-400-normal.8d3c5fc1d1d5fb20a389.woff",
+    "static/media/josefin-sans-vietnamese-400-normal.woff2": "/static/media/josefin-sans-vietnamese-400-normal.6d112623e8b032f69473.woff2",
+    "static/media/epilogue-vietnamese-400-normal.woff2": "/static/media/epilogue-vietnamese-400-normal.c1512fcaa19acb6890e7.woff2",
     "index.html": "/index.html",
-    "main.41c825ff.css.map": "/static/css/main.41c825ff.css.map",
-    "main.1e814a39.js.map": "/static/js/main.1e814a39.js.map",
-    "787.f4b084b8.chunk.js.map": "/static/js/787.f4b084b8.chunk.js.map"
+    "main.182539eb.css.map": "/static/css/main.182539eb.css.map",
+    "main.5ba7c803.js.map": "/static/js/main.5ba7c803.js.map",
+    "496.d4e35a9d.chunk.js.map": "/static/js/496.d4e35a9d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.41c825ff.css",
-    "static/js/main.1e814a39.js"
+    "static/css/main.182539eb.css",
+    "static/js/main.5ba7c803.js"
   ]
 }
